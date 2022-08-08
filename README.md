@@ -4,4 +4,4 @@ ___
 
 <h4 align="center">Web dev who loves to learn</h4>
 
-<h4 align="center">(https://agenta12.github.io/Portfolio/ "My personal website")[My personal website]</h4>
+<h4 align="center">[My personal website](https://agenta12.github.io/Portfolio/)</h4>
