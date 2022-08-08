@@ -8,7 +8,7 @@
 
 🔭 ***I’m currently working on***: Building my skills in Web Development
 
-🌱 ***I’m currently learning***: ***Php***
+🌱 ***I’m currently learning***: ***Php***, ***Docker*** and more
 
 ### Languages and Tools:
 <p>
