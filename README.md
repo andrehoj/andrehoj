@@ -2,7 +2,7 @@
 
 ### Full Stack developer
 
-🌱 ***I’m currently learning***: ***TypeScript*** and ***aws***
+🌱 ***I’m currently learning***: ***TypeScript*** and ***Java***
 
 ### Languages and Tools I use:
 <p>
