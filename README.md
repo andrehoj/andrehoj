@@ -3,6 +3,7 @@
 ### Full Stack developer
 
 🌱 ***I’m currently learning***: ***TypeScript*** and ***Java***
+🌱 ***I’m currently reading***: ***Structure and Interpretation of Computer Programs*** 
 
 ### Languages and Tools I use:
 <p>
